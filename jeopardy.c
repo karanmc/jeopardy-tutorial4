@@ -18,11 +18,13 @@
 #define NUM_PLAYERS 4
 
 // Put global environment variables here
+ /*MODIFICATION
  String player1;
  String player2;
  String player3;
- String player4;
+ String player4;*/
 
+ /*MODIFICATION
  printf("Enter Player 1's name: ");
  scanf("%s", player1);
  printf("Enter Player 2's name: ");
@@ -30,7 +32,7 @@
  printf("Enter Player 3's name: ");
  scanf("%s", player3);
  printf("Enter Player 4's name: ");
- scanf("%s", player4);
+ scanf("%s", player4);*/
 
 // Processes the answer from the user containing what is or who is and tokenizes it to retrieve the answer.
 void tokenize(char *input, char **tokens);
