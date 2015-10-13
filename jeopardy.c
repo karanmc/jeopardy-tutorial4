@@ -53,6 +53,15 @@ int main(int argc, char *argv[])
     initialize_game();
 
     // Prompt for players names
+    //MODIFICATION
+    printf("Enter Player 1 name: ");
+    scanf("%s", player1);
+    printf("Enter Player 2's name: ");
+ 	scanf("%s", player2);
+ 	printf("Enter Player 3's name: ");
+ 	scanf("%s", player3);
+ 	printf("Enter Player 4's name: ");
+ 	scanf("%s", player4);
     
     // initialize each of the players in the array
 
