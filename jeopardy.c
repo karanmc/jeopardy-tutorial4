@@ -54,7 +54,7 @@ int main(int argc, char *argv[])
 
     // Prompt for players names
     //MODIFICATION
-    printf("Enter Player 1 name: ");
+    printf("Enter Player 1's name: ");
     scanf("%s", player1);
     printf("Enter Player 2's name: ");
  	scanf("%s", player2);
