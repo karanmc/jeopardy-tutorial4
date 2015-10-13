@@ -11,7 +11,7 @@
 #include <stdbool.h>
 #include "questions.h"
 #include "players.h"
-#include "jeopardy.h" //TEST MESSAGE
+#include "jeopardy.h"
 
 // Put macros or constants here using #define
 #define BUFFER_LEN 256
